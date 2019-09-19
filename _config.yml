@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Susan Sorensen"
-  avatar           : "/images/20190803_103313.jpg"
+  avatar           : "images/20190803_103313.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "University of Wisconsin - Madison"
   employer         :
